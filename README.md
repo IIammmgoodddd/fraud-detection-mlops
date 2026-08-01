@@ -33,7 +33,7 @@ and categorical features.
 Each notebook below is both a project stage and a concept lesson, worked
 through and committed one at a time:
 
-- [ ] `01_eda.ipynb` — data loading, schema validation, class imbalance,
+- [x] `01_eda.ipynb` — data loading, schema validation, class imbalance,
       missing data, distributions, correlations
 - [ ] `02_statistical_analysis.ipynb` — hypothesis testing to justify which
       features actually relate to fraud

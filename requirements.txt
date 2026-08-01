@@ -1,6 +1,7 @@
 # --- Core data wrangling ---
 pandas>=2.2
 numpy>=1.26
+pyarrow>=17.0
 
 # --- Visualization (used in EDA notebooks) ---
 matplotlib>=3.9
