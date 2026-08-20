@@ -35,7 +35,7 @@ through and committed one at a time:
 
 - [x] `01_eda.ipynb` — data loading, schema validation, class imbalance,
       missing data, distributions, correlations
-- [ ] `02_statistical_analysis.ipynb` — hypothesis testing to justify which
+- [x] `02_statistical_analysis.ipynb` — hypothesis testing to justify which
       features actually relate to fraud
 - [ ] `03_feature_engineering.ipynb` — encoding, scaling, datetime &
       aggregation features (no leakage — fit on train split only)
