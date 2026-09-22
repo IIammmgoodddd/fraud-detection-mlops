@@ -37,8 +37,8 @@ through and committed one at a time:
       missing data, distributions, correlations
 - [x] `02_statistical_analysis.ipynb` — hypothesis testing to justify which
       features actually relate to fraud
-- [ ] `03_feature_engineering.ipynb` — encoding, scaling, datetime &
-      aggregation features (no leakage — fit on train split only)
+- [x] `03_feature_engineering.ipynb` — time-ordered split with a 30-day gap,
+      entity (uid) construction, encoding, drift audit — all fitted on train only
 - [ ] `04_imbalanced_learning.ipynb` — class weights, SMOTE/undersampling,
       threshold moving
 - [ ] `05_baseline_modeling.ipynb` — logistic regression baseline →
